@@ -4,16 +4,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Description>Nuget para el proyecto AWS</Description>
     <Authors>Luis Enrique</Authors>
-    <PackageIcon>logo.png</PackageIcon>
+    <PackageIcon></PackageIcon>
     <PackageIconUrl />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>3.0.0</Version>
+    <PackageId>MadTechAWS</PackageId>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Include="..\..\..\Desktop\logo.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
-  </ItemGroup>
 
 </Project>
